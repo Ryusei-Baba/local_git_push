@@ -20,4 +20,4 @@
 15. git branch --set-upstream-to=origin/main main
 16. git pull --allow-unrelated-histories
 17. vimが立ち上がるが Esc : q で抜ける
-18. gitpush
+18. git push
