@@ -9,7 +9,7 @@
 4. (git push)
 5. git init
 6. GitHubに同名のリポジトリを作成
-7. git remote add origin <リポジトリ名> 
+7. git remote add origin <sshでcloneできるURL（git clone は除外）> 
 8. cat .git/config
 9. git branch
 10. git switch -c main
