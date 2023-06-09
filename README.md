@@ -4,10 +4,10 @@
 
 ## 手順例
 1. cd ~/ws/src/packege名
-2. git add -A
-3. git commit -m "add"
-4. (git push)
-5. git init
+2. git init
+3. git add -A
+4. git commit -m "add"
+5. (git push)
 6. GitHubに同名のリポジトリを作成
 7. git remote add origin <sshでcloneできるURL（git clone は除外）> 
 8. cat .git/config
